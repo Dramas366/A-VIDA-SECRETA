@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Player de Vídeo</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    iframe {
+      width: 80%;
+      height: 80vh;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://drive.google.com/file/d/10vZnUdOPIx-RQT5rY9Rk5612d89r0Gfk/preview" allow="autoplay" allowfullscreen></iframe>
+</body>
+</html>
